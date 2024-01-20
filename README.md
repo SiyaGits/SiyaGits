@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiyaGits
-- 👀 I’m interested in software testing.
+- 👀 I’m interested in digital technology.
 - 🌱 I’m currently learning AI and blockchain technology.
-- 💞️ I’m looking to collaborate on any related to digital technology.
+- 💞️ I’m looking to collaborate on anything related to software testing and learning initiatives.
 
 
 <!---
